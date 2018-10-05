@@ -1,7 +1,7 @@
 This project is about to test jekyll with github page   
 _______________________________________________________________________________
 ## Introduction
-Enable github page in the settings of this project
+Enable github page in the settings of this project   
 _______________________________________________________________________________
 ## Todo
 - [] Add new readme in subfolder for testing link between page
