@@ -6,6 +6,8 @@ _______________________________________________________________________________
 ## Todo
 - [] Add new readme in subfolder for testing link between page
 - [] Add a branche and see where modification are taken (In master only) ?
+- [] Add analytics
+- [] Add discussion/comment with disus ?
 - [] Prepare article. Github page explain how to setup this simple project
 _______________________________________________________________________________
 ## Contact
